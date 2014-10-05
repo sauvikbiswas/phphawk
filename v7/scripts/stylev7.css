@@ -1,0 +1,147 @@
+body {
+	margin:0px;
+	background: url(/images/DPv7_background.gif) top center no-repeat #000;
+/*	background-attachment:fixed;*/
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:white;
+}
+
+#content {
+	color: #EEEEEE;
+	font-family: trebuchet ms, sans-serif;
+	font-size: 80%;
+	line-height: 150%;
+	text-align: justify;
+	background-image:url(/images/transparent2.png);
+	margin: 0px 30px 30px 30px;
+	padding: 15px 30px 30px 30px;
+}
+
+td#leftpartition {
+	font-family: trebuchet ms, sans-serif;
+	font-size: 80%;
+	line-height: 150%;
+	text-align: justify;
+	border-right: 1px #000000 dotted;
+}
+
+table.playertable {
+	color : #c0e4ff;
+	font-size:80%;
+	margin-left: 15px;
+	padding: 10px 10px 5px 10px;
+	border:1px #c0e4ff solid;"
+}
+
+#player, #lastfmlisteners {
+	padding: 10px 20px 10px 20px;
+}
+#lastfm {
+	text-align: center;
+	padding: 5px 0px 20px 0px;
+}
+.posttitle, .imgposttitle {
+	font-weight: bold;
+	font-size: 140%;
+}
+.postpubdate {
+	font-style: italics;
+	font-size: 80%;
+	padding: 0 0 5px 0;
+	border-bottom: 1px #BBBBBB solid;
+}
+
+.imgpostpubdate {
+	font-style: italics;
+	font-size: 80%;
+	padding: 0 0 5px 0;
+}
+
+.postdescription {
+	padding: 20px 0 10px 0;
+	margin: 0 0 10px 0;
+ }
+.postlink {
+	padding: 0px 0 10px 0;
+	margin: 0px 0 20px 0;
+ }
+img.float {
+	padding : 0px 15px 5px 0px;
+	float: left;
+}
+#subheader {
+	font-weight: bold;
+	font-style: italics;
+}
+.notes {
+	font-size: 90%;
+	padding: 0 0 0 20px;
+}
+.footertext {
+	color: #EEEEEE;
+	font-family: trebuchet ms,sans-serif;
+	font-size: 70%;
+	padding: 20px 10px 20px 10px;
+}
+a {
+	color : #c0e4ff;
+	text-decoration : none;
+	background : #222222;
+}
+
+a:visited {
+	color : #c0e4ff;
+	text-decoration : none;
+	background : #222222;
+}
+
+a:hover {
+	background : #555555;
+}
+
+#newsletter {
+	color: #EEEEEE;
+	font-family: trebuchet ms, sans-serif;
+	font-size: 80%;
+	text-align: left;
+	line-height: 150%;
+	padding: 15px 10px 5px 10px;
+}
+
+.photoscroll {
+	width: 100%;
+}
+
+.photoscroll a img {
+	padding: 2px 2px 2px 2px;
+}
+
+.psdisplay {
+	padding: 5px 5px 5px 5px;
+	margin: 0 0 10px 0;
+	border: 2px solid rgb(92, 127, 185);
+}
+
+#twitterhead {
+	color: #EEEEEE;
+	font-family: trebuchet ms, sans-serif;
+	font-size: 80%;
+	line-height: 120%;
+	text-align: left;
+	padding: 0px 20px 0px 20px;
+}
+
+#twitterhead a:hover {
+	color: #FF0000;
+	background : #000000;
+}
+
+#twitterhead a {
+	color: #EE0000;
+	background : #000000;
+}
+
+#booking input {
+	margin: 5px 5px 5px 5px;
+}

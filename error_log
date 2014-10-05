@@ -1,0 +1,81 @@
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(parsingtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(parsingtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(): Failed opening 'parsingtools.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(feedgrabber.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(feedgrabber.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(): Failed opening 'feedgrabber.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(mysql_connect.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(mysql_connect.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(): Failed opening 'mysql_connect.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(mysql_al.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(mysql_al.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(): Failed opening 'mysql_al.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(libtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(libtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:25:24 America/Chicago] PHP Warning:  include(): Failed opening 'libtools.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(parsingtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(parsingtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(): Failed opening 'parsingtools.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(feedgrabber.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(feedgrabber.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(): Failed opening 'feedgrabber.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(mysql_connect.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(mysql_connect.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(): Failed opening 'mysql_connect.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(mysql_al.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(mysql_al.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(): Failed opening 'mysql_al.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(libtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(libtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:36:11 America/Chicago] PHP Warning:  include(): Failed opening 'libtools.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(parsingtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(parsingtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(): Failed opening 'parsingtools.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(feedgrabber.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(feedgrabber.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(): Failed opening 'feedgrabber.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(mysql_connect.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(mysql_connect.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(): Failed opening 'mysql_connect.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(mysql_al.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(mysql_al.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(): Failed opening 'mysql_al.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(libtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(libtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:37:05 America/Chicago] PHP Warning:  include(): Failed opening 'libtools.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(parsingtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(parsingtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(): Failed opening 'parsingtools.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 22
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 23
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(feedgrabber.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(feedgrabber.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(): Failed opening 'feedgrabber.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 24
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(mysql_connect.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(mysql_connect.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(): Failed opening 'mysql_connect.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 25
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(mysql_al.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(mysql_al.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(): Failed opening 'mysql_al.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 26
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(libtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(libtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:39:13 America/Chicago] PHP Warning:  include(): Failed opening 'libtools.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:40:25 America/Chicago] PHP Warning:  include(libtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:40:25 America/Chicago] PHP Warning:  include(libtools.php): failed to open stream: No such file or directory in /home1/darkproj/public_html/v8/engine.php on line 27
+[18-Jun-2014 11:40:25 America/Chicago] PHP Warning:  include(): Failed opening 'libtools.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/darkproj/public_html/v8/engine.php on line 27
+[22-Jun-2014 03:54:02 America/Chicago] PHP Fatal error:  Call to undefined function fetch_facebook_wall() in /home1/darkproj/public_html/v8/content/fb.php on line 5
+[22-Jun-2014 03:55:05 America/Chicago] PHP Fatal error:  Call to undefined function fetch_facebook_wall() in /home1/darkproj/public_html/v8/content/fb.php on line 5
+[22-Jun-2014 03:58:40 America/Chicago] PHP Fatal error:  Call to undefined function fetch_facebook_wall() in /home1/darkproj/public_html/v8/content/fb.php on line 5
+[22-Jun-2014 03:58:50 America/Chicago] PHP Fatal error:  Call to undefined function fetch_blogfeed() in /home1/darkproj/public_html/v8/content/fb.php on line 5
+[22-Jun-2014 04:00:30 America/Chicago] PHP Fatal error:  Call-time pass-by-reference has been removed in /home1/darkproj/public_html/v8/content/feedgrabber.php on line 11
+[22-Jun-2014 04:01:54 America/Chicago] PHP Fatal error:  Call-time pass-by-reference has been removed in /home1/darkproj/public_html/v8/content/feedgrabber.php on line 20

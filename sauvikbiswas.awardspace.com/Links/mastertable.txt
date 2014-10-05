@@ -1,0 +1,8 @@
+h Links
+m links.html
+h My Own Projects
+k self.txt
+h Friends
+k friends.txt
+h 3rd Party Sites [Randomized Soup]
+k 3rdparty.txt

@@ -1,0 +1,3 @@
+h Guestbook
+t I prefer not to display the guestbook entries in public. So I have not put any link for viewing it. Instead I'll allow you to read the guestbook on a different page, once you have already posted a guestbook entry. Please excuse me for the cheap obscene ads certain people post. I keep cleaning them everytime I read the guestbook. A legitimate entry is never erased.
+m guestbook.html

@@ -1,0 +1,8 @@
+h Hobbies
+t Right from my childhood, I used to occupy myself with something. Partly because I didn't like sports that much. I don't regret it. They've made this life full of surprises and worth living for.
+h My Music
+m music.html
+h Visual Arts
+m va.html
+h My Poetry
+m poetry.html

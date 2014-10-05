@@ -1,0 +1,189 @@
+@font-face {
+	font-family: 'Oswald';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Oswald Regular'), local('Oswald-Regular'), url(http://themes.googleusercontent.com/static/fonts/oswald/v7/-g5pDUSRgvxvOl5u-a_WHw.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Sans'), local('DroidSans'), url(http://themes.googleusercontent.com/static/fonts/droidsans/v3/s-BiyweUPV0v-yRb-cjciBsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Droid Sans Bold'), local('DroidSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/droidsans/v3/EFpQQyG9GqCrobXxL-KRMQFhaRv2pGgT5Kf0An0s4MM.woff) format('woff');
+}
+
+body{
+	font-family: 'Oswald';
+	font-style: normal;
+	font-size: 120%;
+	font-weight: 400;
+	padding: 0px;
+	margin: 0px;
+}
+
+.page-header{
+	width: 100%;
+	height: 85px;
+	background-image:url('/images/banner_site.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:right top; 
+	/* background: #AAAAAA; */
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	position: fixed;
+	color: #CCCCCC;
+	z-index: 10000;
+}
+
+.page-header a:link {color:#CCCCCC; text-decoration: none;}
+.page-header a:visited {color:#CCCCCC;}
+.page-header a:hover   {color:red;}
+.page-header a:active  {color:red;} 
+
+.head-name{
+	width: 22%;
+	padding: 10px 0px 0px 10px;
+	float: left;
+}
+
+.head-menu{
+	font-size: 50%;
+}
+
+.head-version{
+	padding: 0px 0px 10px 5px;
+}
+
+.head-name-text{
+	font-size: 180%;
+	padding: 0px;
+	margin: 0px;
+}
+
+.head-menu-list{
+	padding: 0px;
+	margin: 0px;
+	text-transform: uppercase;
+	list-style-type: none;
+}
+
+ul.head-menu-list li{
+	display: inline;
+	padding: 0px 5px;
+}
+
+.header-player{
+	width: 75%;
+	overflow: hidden;
+}
+
+.player-info{
+	width: 8%;
+	float: left;
+	padding: 2px 0px;
+}
+
+.soundcloud-player{
+	width: 80%;
+	float: left;
+	padding: 2px 0px;
+}
+
+.player-more{
+	width: 10%;
+	float: left;
+	text-align: center;
+	margin: 50px 0px;
+}
+
+.player-playlist{
+	width: 50%
+	text-align: right;
+	padding: 85px 0px 0px 0px;
+	font-family: 'Droid sans';
+}
+
+.player-playlist  .playertable{
+	font-size: 75%;
+}
+
+.playertable{
+}
+
+.main-body{
+	z-index: 500;
+	margin: 0px 0px 0px 0px;
+	padding: 85px 0px 0px 0px;
+}
+.main-body a:link {color:blue; text-decoration: none;}
+.main-body a:visited {color:blue;}
+.main-body a:hover   {color:red;}
+.main-body a:active  {color:red;} 
+
+.left-menu{
+	width: 15%;
+	float: left;
+	margin: -10px 10px 0px 10px;
+}
+
+.left-menu-list{
+	text-align: right;
+	text-transform: uppercase;
+	list-style-type: none;
+	display: block;
+}
+
+.facebook{
+	text-align: right;
+	padding: 150px 0px 0px 0px;
+}
+
+.main-content{
+	width: 52%;
+	float: left;
+	background: #DDDDDD;
+	font-family: 'Droid sans';
+	font-size: 80%;
+	padding: 10px 30px 0px 30px;
+}
+
+.post-header{
+	font-family: 'Oswald';
+	font-size: 120%;
+	padding: 10px 0px 10px 0px;
+}
+
+.post-description{
+	padding: 10px 0px 20px 0px;
+}
+
+.youtube{
+	width: 100%;
+	padding: 0px 0px 10px 0px;
+}
+
+.right-content{
+	width: 25%;
+	float: left;
+	font-family: 'Droid sans';
+	font-size: 80%;
+	padding: 10px 10px 0px 10px;
+}
+
+.page-footer{
+	padding: 10px 0px 0px 0px;
+	font-size: 80%;
+	width: 350px;
+}
+
+.twitter{
+	padding:  10px 0px 0px 0px;
+}

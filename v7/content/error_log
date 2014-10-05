@@ -1,0 +1,1 @@
+[14-Dec-2013 09:54:00] PHP Fatal error:  Call to undefined function  fetch_blogfeed() in /home1/darkproj/public_html/content/photo.php on line 2
